@@ -1,7 +1,7 @@
 # Chatbot Using Bard
  This project is an implementation of a backend chatbot using the Bard framework and Node.js. <br> The chatbot is designed to interact with users through a terminal interface, providing an intuitive and conversational experience.
 # Installation
-   1. Clone the project repository from GitHub: git clone https://github.com/your-username/your-repo.git
+   1. Clone the project repository from GitHub: git clone https://github.com/sahil-1729/chatbot
    2. Navigate to the project directory: cd your-repo
    3. Install the required dependencies: npm install
 
