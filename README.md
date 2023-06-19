@@ -8,5 +8,6 @@
 # Usage
    4. Open a terminal or command prompt.
    5. Navigate to the project directory: cd your-repo
-   6. Start the chatbot: node app.js
-   7. Interact with the chatbot through the terminal interface.
+   6. add environment variable as TOKEN in .env file and add the token
+   7. Start the chatbot: node app.js
+   8. Interact with the chatbot through the terminal interface.
