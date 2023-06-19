@@ -3,7 +3,7 @@
 import 'dotenv/config'
 import readline from 'readline'
 import Bard from 'bard-ai'
-//insert the token from f12-> application-> cookies-> __Secure-1PSID
+//insert the token from the bard page, press f12-> go to application tab -> in cookies section -> __Secure-1PSID
 await Bard.init(process.env.TOKEN);
 // to continue the conversation, not just take only 1 prompt
 let myChat = new Bard.Chat();
