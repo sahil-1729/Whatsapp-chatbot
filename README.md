@@ -21,3 +21,4 @@ To use the chatbot, simply open Whatsapp and scan the QR code that is generated 
 # Tech Stack
 * Node
 * MongoDb
+* Javascript
