@@ -55,21 +55,4 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
     client.initialize();
 });
 
-// ---
-// Access Bard through terminal 
-// let result
-// const UI = readline.createInterface({
-//     input: process.stdin,
-//     output: process.stdout
-//   });
-// UI.prompt("Enter the prompt")
-// UI.on("line",async(input) => {
-//     //If input entered is end, stop the bot
-//     if(input === "end"){
-//         UI.close()
-//     }
-//     result = input
-//     console.log(await myChat.ask(result))
-//     console.log(`Enter "end" to end the conversation`)
-// })
 
